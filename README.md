@@ -1,81 +1,85 @@
-# TextTorrent – Communication Simplified
+# TextTorrent – Twilio-Powered Communication Platform (Laravel + Livewire)
 
-**TextTorrent** is a modern communication platform I designed and developed to streamline **text**, **calls**, and **contact management** into one unified tool. With a focus on automation and customer engagement, it’s built for businesses that rely on efficient, scalable outreach.
+<img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" alt="Twilio Logo" width="40" style="vertical-align: middle; margin-right: 10px;" />
 
-> 🚀 Built by Sujon Ahmed – Software Engineer & Twilio Expert
+**TextTorrent** is a fully-featured business communication platform designed and developed by **Sujon Ahmed**. It integrates **Twilio’s SMS and Voice APIs** to enable smart campaign delivery, customer engagement, and call/SMS automation — all backed by a **Laravel + Livewire + Redis** stack.
 
----
-
-## 🔧 About the Project
-
-TextTorrent is a full-stack application designed to help businesses manage and automate their communication pipelines with ease.
-
-- 📩 Mass texting & campaigns
-- 📞 Call logging & management
-- 👥 CRM-integrated contact book
-- 📊 Real-time analytics and delivery tracking
-- 🔄 AI-integrated workflow automation (beta)
+> 📣 Showcase project – source code not included.
 
 ---
 
-## 💼 My Role
+## 🔧 Project Overview
 
-- **Backend Architecture & APIs (Laravel)**
-- **Livewire-powered dynamic UI**
-- **Twilio SMS, Voice, and Webhook integrations**
-- **Queue & Job orchestration (Redis, Horizon)**
-- **Authentication, Roles, and Permissions**
+TextTorrent helps businesses automate and scale their customer outreach using:
+
+- 📩 SMS Campaign System
+- 📞 Call Management (Voice API)
+- 🧠 AI & Workflow Automations *(beta)*
+- 📊 Delivery Status & Reporting
+- 👥 CRM-based Contact Segmentation
+- 📆 Scheduler with Queue Handling (Redis)
+
+Built for performance, extensibility, and reliability.
 
 ---
 
-## 📸 Screenshots
+## 💼 My Role in the Project
 
-| Campaign Dashboard | Conversation View | Contact Manager |
-|--------------------|-------------------|-----------------|
-| ![Dashboard](https://texttorrent.com/assets/app/images/landing-new/feature-hero.png) | ![Conversation](https://texttorrent.com/assets/app/images/landing-new/peer-to-peer.png) | ![Contacts](https://texttorrent.com/assets/app/images/landing-new/real-time-campaing.png) |
+- Designed entire **Laravel backend architecture**
+- Built all **Twilio integrations** from scratch
+- Developed **Livewire-powered admin dashboards**
+- Implemented **real-time queue management** using Redis
+- Handled **Webhook listeners, fallback systems, and delivery receipts**
 
 ---
 
 ## 🔌 Twilio Expertise
 
-<img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" alt="Twilio Logo" width="40" style="vertical-align: middle; margin-right: 10px;" />
+<img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" alt="Twilio Logo" width="40" style="vertical-align: middle;" />
 
-I have implemented:
-- ✅ Programmable SMS and Voice APIs
-- ✅ Callback/Webhook handling
-- ✅ Twilio Conversations API
-- ✅ Rate-limited campaign dispatching
-- ✅ Delivery and failure tracking
-- ✅ Verified Messaging, Opt-outs & DNC logic
+**Twilio features implemented:**
 
-More details in [`docs/twilio-integration.md`](docs/twilio-integration.md)
+- ✅ Programmable SMS API (one-way, two-way)
+- ✅ Twilio Voice API for inbound/outbound calls
+- ✅ Webhook-based message status tracking
+- ✅ Twilio Conversations API for multi-user threads
+- ✅ Verified messaging & compliance tools
+- ✅ Rate-limited dispatch queue for large campaigns
+- ✅ Dynamic opt-out handling with keyword matching
 
+> Learn more in [Twilio Integration](docs/twilio-integration.md)
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-| Layer           | Tools / Frameworks                     |
-|----------------|----------------------------------------|
-| Backend         | Laravel, Redis, MySQL                  |
-| Frontend        | Blade, Livewire, Alpine.js             |
-| Messaging       | Twilio (SMS, Voice, Webhooks)          |
-| Hosting & Tools | DigitalOcean, GitHub Actions, Cloudflare |
+| Layer      | Tools                                 |
+|------------|----------------------------------------|
+| Backend    | Laravel, MySQL, Redis, Horizon         |
+| Frontend   | Livewire, Blade, Alpine.js             |
+| Messaging  | Twilio (SMS, Voice, Conversations)     |
+| Deployment | CPanel / DigitalOcean / GitHub Actions |
 
 ---
 
 ## 📄 Documentation
 
-- [Architecture Overview](docs/architecture.md)
-- [Feature Set](docs/features.md)
-- [Tech Stack](docs/tech-stack.md)
-- [Twilio Integration](docs/twilio-integration.md)
+- [📐 Architecture Overview](docs/architecture.md)
+- [✨ Full Feature Set](docs/features.md)
+- [⚙️ Technology Stack](docs/tech-stack.md)
+- [📞 Twilio Integration Details](docs/twilio-integration.md)
 
 ---
 
-## 🙋‍♂️ Author
+## 🖼 Screenshots
 
-**Sujon Ahmed** – Full-Stack Developer  
+| Dashboard View | Campaign Builder | Contact Management |
+|----------------|------------------|--------------------|
+| ![Dashboard](https://texttorrent.com/assets/app/images/landing-new/feature-hero.png) | ![Conversation](https://texttorrent.com/assets/app/images/landing-new/peer-to-peer.png) | ![Contacts](https://texttorrent.com/assets/app/images/landing-new/real-time-campaing.png) |
 
-If you're building something like this or need help with Twilio, feel free to reach out!
+> Images for demo purposes only.
+
+---
+
+## 🔍 Keywords for Discoverability
 
