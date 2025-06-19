@@ -36,16 +36,20 @@ TextTorrent is a full-stack application designed to help businesses manage and a
 
 ---
 
-## <img src="assets/images/twilio-logo.png" alt="Twilio Logo" width="40" style="vertical-align: middle; margin-right: 10px;" /> Twilio Expertise
+## 🔌 Twilio Expertise
+
+<img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" alt="Twilio Logo" width="40" style="vertical-align: middle; margin-right: 10px;" />
 
 I have implemented:
-
 - ✅ Programmable SMS and Voice APIs
 - ✅ Callback/Webhook handling
 - ✅ Twilio Conversations API
 - ✅ Rate-limited campaign dispatching
 - ✅ Delivery and failure tracking
 - ✅ Verified Messaging, Opt-outs & DNC logic
+
+More details in [`docs/twilio-integration.md`](docs/twilio-integration.md)
+
 
 ---
 
