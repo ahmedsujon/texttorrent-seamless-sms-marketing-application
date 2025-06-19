@@ -36,7 +36,7 @@ TextTorrent is a full-stack application designed to help businesses manage and a
 
 ---
 
-## 🔌 Twilio Expertise
+## <img src="assets/images/twilio-logo.png" alt="Twilio Logo" width="40" style="vertical-align: middle; margin-right: 10px;" /> Twilio Expertise
 
 I have implemented:
 
