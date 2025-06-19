@@ -2,7 +2,7 @@
 
 **TextTorrent** is a modern communication platform I designed and developed to streamline **text**, **calls**, and **contact management** into one unified tool. With a focus on automation and customer engagement, it’s built for businesses that rely on efficient, scalable outreach.
 
-> 🚀 Built by [Your Name] – Backend Developer & Twilio Expert
+> 🚀 Built by Sujon Ahmed – Software Engineer & Twilio Expert
 
 ---
 
@@ -32,7 +32,7 @@ TextTorrent is a full-stack application designed to help businesses manage and a
 
 | Campaign Dashboard | Conversation View | Contact Manager |
 |--------------------|-------------------|-----------------|
-| ![Dashboard](assets/screenshots/dashboard.png) | ![Conversation](assets/screenshots/conversation.png) | ![Contacts](assets/screenshots/contacts.png) |
+| ![Dashboard](https://texttorrent.com/assets/app/images/landing-new/feature-hero.png) | ![Conversation](https://texttorrent.com/assets/app/images/landing-new/peer-to-peer.png) | ![Contacts](https://texttorrent.com/assets/app/images/landing-new/real-time-campaing.png) |
 
 ---
 
@@ -46,8 +46,6 @@ I have implemented:
 - ✅ Rate-limited campaign dispatching
 - ✅ Delivery and failure tracking
 - ✅ Verified Messaging, Opt-outs & DNC logic
-
-More details in [`docs/twilio-integration.md`](docs/twilio-integration.md)
 
 ---
 
