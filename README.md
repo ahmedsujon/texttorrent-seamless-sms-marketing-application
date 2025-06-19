@@ -1,7 +1,5 @@
 # TextTorrent – Twilio-Powered Communication Platform (Laravel + Livewire)
 
-<img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" alt="Twilio Logo" width="40" style="vertical-align: middle; margin-right: 10px;" />
-
 **TextTorrent** is a fully-featured business communication platform designed and developed by **Sujon Ahmed**. It integrates **Twilio’s SMS and Voice APIs** to enable smart campaign delivery, customer engagement, and call/SMS automation — all backed by a **Laravel + Livewire + Redis** stack.
 
 > 📣 Showcase project – source code not included.
