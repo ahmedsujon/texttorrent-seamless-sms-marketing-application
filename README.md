@@ -76,4 +76,12 @@ Built for performance, extensibility, and reliability.
 | ![Dashboard](https://texttorrent.com/assets/app/images/landing-new/feature-hero.png) | ![Conversation](https://texttorrent.com/assets/app/images/landing-new/peer-to-peer.png) | ![Contacts](https://texttorrent.com/assets/app/images/landing-new/real-time-campaing.png) |
 
 > Images for demo purposes only.
+---
 
+## 📣 Let's Connect
+
+If you're working on Twilio integrations or communication tools, feel free to reach out:
+
+- 🔗 GitHub: [github.com/ahmedsujon](https://github.com/ahmedsujon)
+- 📧 Email: [sujonahmed424@gmail.com](mailto:sujonahmed424@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/sujon-ahmed](https://www.linkedin.com/in/sujon-ahmed/)
