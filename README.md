@@ -79,7 +79,3 @@ Built for performance, extensibility, and reliability.
 
 > Images for demo purposes only.
 
----
-
-## 🔍 Keywords for Discoverability
-
